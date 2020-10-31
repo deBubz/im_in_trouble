@@ -16,7 +16,7 @@ lamb
   2. salt + pepper on lamb
   3. rosemarry in the bottom/ top of lamb, garlic cloves everywhere
   4. olive oil on top, 1cup+ stock
-  5. oven 160 deg, 4+ hours
+  5. oven 160 - 170 deg, 4+ hours (~1hr per kg)
 
 mash
   1. cook potatoes, drain
@@ -31,3 +31,4 @@ gravy
   1. butter on pan
   2. stock
   3. slowly put in some flour
+  4. add stock if too thick
